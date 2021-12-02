@@ -6,9 +6,12 @@ namespace git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
             Console.WriteLine("Hello Ya!");
-            string name="Andrey";
+           
+            for(int i=0; i<10;i++){
+                 Console.WriteLine("Molodex!");
+            }
         }
     }
 }
